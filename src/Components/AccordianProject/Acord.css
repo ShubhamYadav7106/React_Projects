@@ -1,0 +1,52 @@
+.Acord-card {
+    position: relative;
+    top: 72px;
+    width: 80%;
+    padding: 47px 40px 20px 40px;
+    box-shadow: 0px 0px 6px black;
+    margin: auto;
+    text-align: center;
+    
+}
+
+.Acord-card h1 {
+    padding-bottom: 12px;
+    
+}
+
+.container7 {
+    margin: 11px 0;
+
+    text-align: end;
+    /* border: 2px solid; */
+    box-shadow: 0px 0px 6px black;
+    padding: 8px;
+
+}
+
+.Acord-btn {
+    /* float: right; */
+    border: none;
+    width: fit-content;
+    background: none;
+    position: relative;
+    bottom: 22px;
+    right: 19px;
+    
+}
+
+.acord-p {
+    height: 44px;
+    text-align: start;
+    
+}
+
+.acord-title {
+    text-align: start;
+    width: fit-content;
+    
+}
+.ArrowDown,.ArrowUp{
+    font-size: 19px;
+    
+}

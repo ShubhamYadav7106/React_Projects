@@ -1,0 +1,30 @@
+
+.container4{
+    margin: 15px 0;
+    justify-content: center;
+    display: flex;
+}
+.text{
+    font-size: 22px;
+}
+.Color-btn{
+    font-size: 14px;
+    background-color: black;
+    color: white;
+    width: 100%;
+    padding: 4px 10px ;
+    cursor: pointer;
+    border: none;
+}
+.Color-btn:hover{
+    background-color: rgba(53, 53, 53, 0.726);
+}
+.box{
+    border: 2px solid;
+    width: 250px;
+    height: 71px;
+    text-align: center;
+}
+.text{
+    padding: 7px 10px;
+}

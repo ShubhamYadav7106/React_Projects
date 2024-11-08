@@ -1,0 +1,18 @@
+.reloads{
+    width: 362px;
+}
+.card2{
+    box-shadow: 0px 0px 5px 2px #054348;
+    padding: 20px;
+    background-color: rgb(209, 202, 202);
+}
+.container2{
+    text-align: center;
+padding: 22px;
+display: flex;
+justify-content: space-evenly;
+background-color: rgb(153, 235, 228);
+}
+.calc-title{
+    margin-bottom: 11px;
+}
